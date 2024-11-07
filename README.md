@@ -2,7 +2,7 @@ Anders Iversen
 ===============================
 
 * 🌍  Based in Valby, Copenhagen
-* 🎓 Studying Web Development at KEA - Copenhagen School of Design and Technology
+* 🎓  Graduated as Web developer from KEA - Copenhagen School of Design and Technology
 * 🖥️  See my portfolio at [andersiversen.app](https://andersiversen.netlify.app/)
 
 
