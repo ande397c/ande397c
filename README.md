@@ -17,8 +17,6 @@
   </a>
 </p>
 
----
-
 ## Technologies
 
 **Languages**
